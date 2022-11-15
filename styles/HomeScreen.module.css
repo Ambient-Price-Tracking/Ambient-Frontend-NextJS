@@ -1,0 +1,83 @@
+.title {
+    position: absolute;
+width: 733px;
+height: 179px;
+left: 131px;
+top: 202px;
+
+font-family: 'Hanuman';
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+line-height: 94px;
+
+color: #000000;
+}
+
+/* Rectangle 8 */
+
+.Submit {
+position: absolute;
+width: 1465px;
+height: 265px;
+left: 131px;
+top: 591px;
+
+background: #C2D2D3;
+border-radius: 0px 33px 33px 33px;
+}
+
+/* Rectangle 9 */
+
+.Amazon{
+position: absolute;
+width: 226px;
+height: 97px;
+left: 131px;
+top: 494px;
+
+background: #C2D2D3;
+border-radius: 33px 0px 0px 0px;
+}
+
+/* Rectangle 13 */
+
+.Flipkart{
+position: absolute;
+width: 226px;
+height: 97px;
+left: 357px;
+top: 494px;
+
+background: #070928;
+border-radius: 0px 33px 0px 0px;
+
+}
+/* Rectangle 10 */
+
+.Form {
+position: absolute;
+width: 425px;
+height: 110px;
+left: 1128px;
+top: 801px;
+
+background: #070928;
+border-radius: 33px;}
+
+.subtitle {
+    position: absolute;
+width: 152px;
+height: 51px;
+left: 132px;
+top: 409px;
+
+font-family: 'Hanuman';
+font-style: normal;
+font-weight: 700;
+font-size: 35px;
+line-height: 51px;
+
+color: #000000;
+
+}
