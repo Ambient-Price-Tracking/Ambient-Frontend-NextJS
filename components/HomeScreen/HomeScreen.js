@@ -5,8 +5,9 @@ import styles from '../../styles/HomeScreen.module.css'
 const HomeScreen = () => {
     return (
         <div className={styles.container}>
-        <span className={styles.title}>Life Is Short And 
-        The World Is Wide!</span>
+        <span className={styles.title}>Life Is Short And The World Is Wide!</span>
+        <Link className={styles.subtitle} href='/Pricetracker'>Try Now -<i class={styles.arrow}></i> </Link>
+
         </div>
     )
 
