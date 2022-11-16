@@ -8,17 +8,17 @@
   border-radius: 0px 33px 33px 33px;
 }
 .btn {
-    position: absolute;
-    width: 295px;
-    height: 70px;
-    left: 1055px;
-    color: white;
-    top: 160px;
-    display: flex;
-    background: #070928;
-    border-radius: 33px;
-    justify-content: center;
-    align-items: center;
+  position: absolute;
+  width: 295px;
+  height: 70px;
+  left: 1055px;
+  color: white;
+  top: 160px;
+  display: flex;
+  background: #070928;
+  border-radius: 33px;
+  justify-content: center;
+  align-items: center;
 }
 .form_control1 {
   position: absolute;
@@ -51,19 +51,24 @@
   background: #ffffff;
   border-radius: 0px 33px 33px 0px;
 }
-.btn1 {    position: absolute;
-    width: 226px;
-    height: 97px;
-    left: 0px;
-    top: -96px;
-    background: #C2D2D3;
-    border-radius: 33px 0px 0px 0px;
-    border: none;}
-.btn2 {    position: absolute;
-    width: 226px;
-    height: 97px;
-    left: 0px;
-    top: -96px;
-background: #070928;
-border-radius: 0px 33px 0px 0px;
-    border: none;}
+.btn1 {
+  position: absolute;
+  width: 226px;
+  height: 97px;
+  left: 0px;
+  top: -96px;
+  background: #c2d2d3;
+  border-radius: 33px 0px 0px 0px;
+  border: none;
+}
+.btn2 {
+  position: absolute;
+  width: 226px;
+  height: 97px;
+  left: 225px;
+  top: -96px;
+  color: white;
+  background: #070928;
+  border-radius: 0px 33px 0px 0px;
+  border: none;
+}
